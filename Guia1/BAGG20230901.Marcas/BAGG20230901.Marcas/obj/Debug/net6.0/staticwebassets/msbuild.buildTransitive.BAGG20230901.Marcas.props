@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BAGG20230901.Marcas.props" />
+</Project>
