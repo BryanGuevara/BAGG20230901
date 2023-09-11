@@ -26,7 +26,30 @@ namespace MIPrimeraAppWebAPIConControladores.Controllers
         }
 
         [HttpPost]
-        public IAsyncResult Put(int id, [FromBody] Client client)
+        public IActionResult Post([FromBody] Client client)
+        {
+            clients.Add(client);
+            return Ok();
+        }
+
+        [HttpPut]
+        public IActionResult Put(int id, [FromBody] Client client)
+        {
+            var existingClient = clients.FirstOrDefault(x => x.Id == id);
+            if(existingClient != null)
+            {
+                existingClient.Name = client.Name;
+                existingClient.LastName = client.LastName;
+                return Ok();
+            }
+            else
+            {
+                return NotFound();
+            }
+        }
+
+        [HttpDelete]
+        public IActionResult Delete(int id)
         {
             var existingClient = clients.FirstOrDefault(x => x.Id == id);
             if (existingClient != null)
