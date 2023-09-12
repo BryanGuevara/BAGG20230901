@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bOym7Sf4EmBzxaCRM/xlRPth9WT+laPYGZWLT7fyBPw=",
+  "Source": "AuthenticationJWTMinimalAPI",
+  "BasePath": "_content/AuthenticationJWTMinimalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
