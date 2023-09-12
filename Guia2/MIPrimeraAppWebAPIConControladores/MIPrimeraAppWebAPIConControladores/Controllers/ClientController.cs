@@ -36,7 +36,7 @@ namespace MIPrimeraAppWebAPIConControladores.Controllers
         public IActionResult Put(int id, [FromBody] Client client)
         {
             var existingClient = clients.FirstOrDefault(x => x.Id == id);
-            if(existingClient != null)
+            if (existingClient != null)
             {
                 existingClient.Name = client.Name;
                 existingClient.LastName = client.LastName;

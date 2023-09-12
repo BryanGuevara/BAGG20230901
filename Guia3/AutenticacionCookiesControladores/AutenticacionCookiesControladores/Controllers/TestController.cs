@@ -19,28 +19,20 @@ namespace AutenticacionCookiesControladores.Controllers
         }
 
         [AllowAnonymous]
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
-        // POST api/<TestController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public IActionResult Post(String name, String lastName)
         {
+            data.Add(new { name, lastName });
+
+            return Ok();
         }
 
-        // PUT api/<TestController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+       [Authorize]
+       [HttpDelete]
+        public IActionResult Delete()
         {
-        }
-
-        // DELETE api/<TestController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
+            data = new List<object>();
+            return Ok();
         }
     }
 }
