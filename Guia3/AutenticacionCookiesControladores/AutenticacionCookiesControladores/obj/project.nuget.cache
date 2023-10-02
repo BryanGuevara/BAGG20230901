@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/oKlr72jJcn8Z88YK0WwABFzETUtqv83rwj8ri6jFjd7l6tqSP3gzx3ptlcUV5Avz3IWmcoZQi9qXMI1FEABHA==",
+  "dgSpecHash": "PEBDvOpg5YFRvxY28UAdxaq2ZIHLlCAF9dRay2DOnDneb/ksC/W01MJvtQ6VSyDVyIXLKOZhXyYBJ69SvJRTDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia3\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores.csproj",
+  "projectFilePath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia3\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

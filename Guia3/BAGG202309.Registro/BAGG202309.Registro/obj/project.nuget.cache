@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UyEOZGiJk1DZEteClqtCaos9V6uk4Qjq+3y9Z+rv0GgWPCkUlNfl9dnW0B5Ig/28iWbJ4o88vRAiBl58IzwUDw==",
+  "dgSpecHash": "HYVC2gkdf7uvthMt8pTpz3OGZRw4/LR0OZw2HfxV3KQjSlW4M/Zx2MfduS6b0cvDS6kLD4XnsllMZ16DTKcmDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia3\\BAGG202309.Registro\\BAGG202309.Registro\\BAGG202309.Registro.csproj",
+  "projectFilePath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia3\\BAGG202309.Registro\\BAGG202309.Registro\\BAGG202309.Registro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

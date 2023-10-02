@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia3\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores.csproj": {}
+    "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia3\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia3\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores.csproj": {
+    "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia3\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia3\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores.csproj",
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia3\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores.csproj",
         "projectName": "AutenticacionCookiesControladores",
-        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia3\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores.csproj",
+        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia3\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores.csproj",
         "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia3\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores\\obj\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia3\\AutenticacionCookiesControladores\\AutenticacionCookiesControladores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -846,11 +846,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia4\\AuthenticationJWTMinimalAPI\\AuthenticationJWTMinimalAPI\\AuthenticationJWTMinimalAPI.csproj",
+      "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia4\\AuthenticationJWTMinimalAPI\\AuthenticationJWTMinimalAPI\\AuthenticationJWTMinimalAPI.csproj",
       "projectName": "AuthenticationJWTMinimalAPI",
-      "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia4\\AuthenticationJWTMinimalAPI\\AuthenticationJWTMinimalAPI\\AuthenticationJWTMinimalAPI.csproj",
+      "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia4\\AuthenticationJWTMinimalAPI\\AuthenticationJWTMinimalAPI\\AuthenticationJWTMinimalAPI.csproj",
       "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia4\\AuthenticationJWTMinimalAPI\\AuthenticationJWTMinimalAPI\\obj\\",
+      "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia4\\AuthenticationJWTMinimalAPI\\AuthenticationJWTMinimalAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",

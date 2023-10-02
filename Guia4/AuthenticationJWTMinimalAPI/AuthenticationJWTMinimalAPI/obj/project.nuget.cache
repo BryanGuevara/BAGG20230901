@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yX6GtpeKJej8P7GDSUAzsri6XaWGToz1/ZbMiRsMngIz6WvsNyRRphiP8+UUa2792hJ+qTW9J0/eba26Oao0oQ==",
+  "dgSpecHash": "wf2jcsy2ub72x+9qhhPNrmWoFDLxkEEHxaoltiF+9M9/B0TVUeWIOJvg5Py6SvU1TxfMrzQ+mLNpIluh6wAokw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia4\\AuthenticationJWTMinimalAPI\\AuthenticationJWTMinimalAPI\\AuthenticationJWTMinimalAPI.csproj",
+  "projectFilePath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia4\\AuthenticationJWTMinimalAPI\\AuthenticationJWTMinimalAPI\\AuthenticationJWTMinimalAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.21\\microsoft.aspnetcore.authentication.jwtbearer.6.0.21.nupkg.sha512",
     "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

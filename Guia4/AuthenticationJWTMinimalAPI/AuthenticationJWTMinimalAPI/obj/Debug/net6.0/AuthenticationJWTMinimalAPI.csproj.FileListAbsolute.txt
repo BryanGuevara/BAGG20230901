@@ -37,3 +37,42 @@ C:\Users\MINEDUCYT\Desktop\Tareas Hechas\BAGG202309\Guia4\AuthenticationJWTMinim
 C:\Users\MINEDUCYT\Desktop\Tareas Hechas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\MINEDUCYT\Desktop\Tareas Hechas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\MINEDUCYT\Desktop\Tareas Hechas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\AuthenticationJWTMinimalAPI.exe
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\AuthenticationJWTMinimalAPI.deps.json
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\AuthenticationJWTMinimalAPI.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\AuthenticationJWTMinimalAPI.dll
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\AuthenticationJWTMinimalAPI.pdb
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\AuthenticationJWTMinimalAPI.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\AuthenticationJWTMinimalAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\AuthenticationJWTMinimalAPI.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\AuthenticationJWTMinimalAPI.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\AuthenticationJWTMinimalAPI.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\AuthenticationJWTMinimalAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\AuthenticationJWTMinimalAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\staticwebassets\msbuild.AuthenticationJWTMinimalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthenticationJWTMinimalAPI.props
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthenticationJWTMinimalAPI.props
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthenticationJWTMinimalAPI.props
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\scopedcss\bundle\AuthenticationJWTMinimalAPI.styles.css
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\AuthenticationJWTMinimalAPI.csproj.CopyComplete
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\AuthenticationJWTMinimalAPI.dll
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\refint\AuthenticationJWTMinimalAPI.dll
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\AuthenticationJWTMinimalAPI.pdb
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\AuthenticationJWTMinimalAPI.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Desktop\Tareas\BAGG202309\Guia4\AuthenticationJWTMinimalAPI\AuthenticationJWTMinimalAPI\obj\Debug\net6.0\ref\AuthenticationJWTMinimalAPI.dll

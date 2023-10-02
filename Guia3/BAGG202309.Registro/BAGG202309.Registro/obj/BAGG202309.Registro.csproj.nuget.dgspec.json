@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia3\\BAGG202309.Registro\\BAGG202309.Registro\\BAGG202309.Registro.csproj": {}
+    "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia3\\BAGG202309.Registro\\BAGG202309.Registro\\BAGG202309.Registro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia3\\BAGG202309.Registro\\BAGG202309.Registro\\BAGG202309.Registro.csproj": {
+    "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia3\\BAGG202309.Registro\\BAGG202309.Registro\\BAGG202309.Registro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia3\\BAGG202309.Registro\\BAGG202309.Registro\\BAGG202309.Registro.csproj",
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia3\\BAGG202309.Registro\\BAGG202309.Registro\\BAGG202309.Registro.csproj",
         "projectName": "BAGG202309.Registro",
-        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia3\\BAGG202309.Registro\\BAGG202309.Registro\\BAGG202309.Registro.csproj",
+        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia3\\BAGG202309.Registro\\BAGG202309.Registro\\BAGG202309.Registro.csproj",
         "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia3\\BAGG202309.Registro\\BAGG202309.Registro\\obj\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia3\\BAGG202309.Registro\\BAGG202309.Registro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",
