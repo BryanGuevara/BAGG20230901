@@ -12,10 +12,10 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "JWT API", Version = "v1" });
-
+      
     var jwrSecurityScheme = new OpenApiSecurityScheme
     {
-        Scheme = "barrer",
+        Scheme = "Bearer",
         BearerFormat = "JWT",
         Name = "JWT Authentication",
         In = ParameterLocation.Header,

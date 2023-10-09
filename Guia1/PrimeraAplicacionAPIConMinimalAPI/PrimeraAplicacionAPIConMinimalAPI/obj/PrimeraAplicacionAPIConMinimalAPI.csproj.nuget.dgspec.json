@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia1\\PrimeraAplicacionAPIConMinimalAPI\\PrimeraAplicacionAPIConMinimalAPI\\PrimeraAplicacionAPIConMinimalAPI.csproj": {}
+    "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia1\\PrimeraAplicacionAPIConMinimalAPI\\PrimeraAplicacionAPIConMinimalAPI\\PrimeraAplicacionAPIConMinimalAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia1\\PrimeraAplicacionAPIConMinimalAPI\\PrimeraAplicacionAPIConMinimalAPI\\PrimeraAplicacionAPIConMinimalAPI.csproj": {
+    "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia1\\PrimeraAplicacionAPIConMinimalAPI\\PrimeraAplicacionAPIConMinimalAPI\\PrimeraAplicacionAPIConMinimalAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia1\\PrimeraAplicacionAPIConMinimalAPI\\PrimeraAplicacionAPIConMinimalAPI\\PrimeraAplicacionAPIConMinimalAPI.csproj",
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia1\\PrimeraAplicacionAPIConMinimalAPI\\PrimeraAplicacionAPIConMinimalAPI\\PrimeraAplicacionAPIConMinimalAPI.csproj",
         "projectName": "PrimeraAplicacionAPIConMinimalAPI",
-        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia1\\PrimeraAplicacionAPIConMinimalAPI\\PrimeraAplicacionAPIConMinimalAPI\\PrimeraAplicacionAPIConMinimalAPI.csproj",
+        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia1\\PrimeraAplicacionAPIConMinimalAPI\\PrimeraAplicacionAPIConMinimalAPI\\PrimeraAplicacionAPIConMinimalAPI.csproj",
         "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas Hechas\\BAGG202309\\Guia1\\PrimeraAplicacionAPIConMinimalAPI\\PrimeraAplicacionAPIConMinimalAPI\\obj\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas\\BAGG202309\\Guia1\\PrimeraAplicacionAPIConMinimalAPI\\PrimeraAplicacionAPIConMinimalAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",
